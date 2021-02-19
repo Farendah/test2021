@@ -11,7 +11,7 @@ var x=document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);
     </head>
     
     <body>
-    
+    <p> hello world</p>
     </body>
 
 </html>
